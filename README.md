@@ -25,38 +25,6 @@ Install the dependencies using:
 pip install tensorflow keras opencv-python
 ```
 
-## Dataset
-
-Describe the dataset used for training the model. Include details on how to obtain and structure the dataset.
-
-## Model Architecture
-
-Explain the architecture of your CNN model, including the number of layers, types of layers, and any specific configurations.
-
-## Training
-
-Provide instructions on how to train the model using the provided dataset and scripts.
-
-```bash
-python src/train.py
-```
-
-## Running the Model
-
-Explain how to run the trained model using the Udacity Self-Driving Simulator. Include any command-line parameters or configuration settings.
-
-```bash
-python src/run_model.py
-```
-
-## Results
-
-Discuss the performance of the model, any challenges faced, and potential improvements.
-
-## Acknowledgments
-
-Mention any resources, tutorials, or references that were helpful in completing the project.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
