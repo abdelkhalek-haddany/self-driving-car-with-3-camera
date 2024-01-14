@@ -62,5 +62,3 @@ Mention any resources, tutorials, or references that were helpful in completing 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to add or modify sections based on your specific project details and requirements.
